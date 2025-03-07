@@ -1,4 +1,5 @@
-scikit-learn
-numpy
 streamlit
-pickle
+scikit-learn
+pandas
+numpy
+pickle-mixin
